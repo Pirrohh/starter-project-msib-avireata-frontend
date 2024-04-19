@@ -1,3 +1,7 @@
+### Desain Figma
+
+Kunjungi [di sini](https://www.figma.com/file/n42GYaTzYE9fAyTMeE5mbo/Untitled?type=design&node-id=0%3A1&mode=design&t=8bdZ4BBXebKeHnDo-1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
