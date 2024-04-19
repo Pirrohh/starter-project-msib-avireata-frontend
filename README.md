@@ -1,6 +1,6 @@
 ### Contoh Tampilan Proyek
 
-![Tampilan Proyek](src/assets/images/login.jpg)
+![Tampilan Proyek](public/assets/images/login.jpg)
 
 ### Desain Figma
 
