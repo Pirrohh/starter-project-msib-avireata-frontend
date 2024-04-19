@@ -1,3 +1,7 @@
+### Contoh Tampilan Proyek
+
+![Tampilan Proyek](src/assets/images/login.jpg)
+
 ### Desain Figma
 
 Kunjungi [di sini](https://www.figma.com/file/n42GYaTzYE9fAyTMeE5mbo/Untitled?type=design&node-id=0%3A1&mode=design&t=8bdZ4BBXebKeHnDo-1)
